@@ -2,6 +2,7 @@
 Application created as a technical challenge zebrands
 
 For this technical challenge, React Native was used in its most recent version, including its new architecture.
+Using typescript that comes by default in react native, the correct typing of all components, responses to requests, among others, was performed.
 
 The best libraries were used for this project, guaranteeing the best possible performance.
 
