@@ -1,6 +1,23 @@
 # ZebrandTest
 Application created as a technical challenge zebrands
 
+For this technical challenge, React Native was used in its most recent version, including its new architecture.
+
+The best libraries were used for this project, guaranteeing the best possible performance.
+
+Flashlist instead of flatlist: the best library to display lists with many elements, guaranteeing the best user experience.
+
+Axios was used to handle requests in combination with react-query which generates a more effective handling of the pagination of the list without the use of additional useStates
+
+For the management of styles, uniStyles was used, a very powerful library which integrates everything in one for managing font colors and dark mode changes without using a state manager or context
+
+For the management of data persistence in this case, the MMKV library was used, being the fastest and most effective when saving and extracting saved data, such as the user's style preference
+
+For the management of navigation, the already known react navigation was installed, a library that is more than optimized and ready to offer the best performance to the user with infinite possibilities of styles and functionalities
+
+Additionally, a network status manager was added, notifying the user when they do not have access to the internet with a simple toast
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
